@@ -29,6 +29,10 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    // adicionado manualmente, Ele pega nossos xmls e criar classes para eles
+    buildFeatures{
+        viewBinding = true
+    }
 }
 
 dependencies {

@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lista de Tarefas</string>
+    <string name="label_nova_tarefa">Criar Tarefa</string>
+    <string name="label_titulo">Título</string>
+    <string name="label_data">Data</string>
+    <string name="label_hora">Hora</string>
+    <string name="label_tarefas">Tarefas</string>
+    <string name="label_descicao_nova_tarefa">Nova tarefa</string>
+    <string name="label_editar">Editar</string>
+    <string name="label_deletar">Deletar</string>
+    <string name="label_vocetadeboa">Ops! Não tem tarefa \n vai jogar</string>
 </resources>
